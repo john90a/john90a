@@ -6,10 +6,10 @@ Web Developer
 
 I am a frontend developer with expertise in javascript, React, and TailwindCSS, I excel in creating a responsive design. With my skills, I draft dynamic user-friendly interfaces that adapt seamlessly to various screen sizes.
 
-* 🌍  I'm based in Doha Qatar
-* ✉️  You can contact me at [jarigi90@gmail.com](mailto:jarigi90@gmail.com)
-* 🧠  I'm learning Nextjs
-* 🤝  I'm open to collaborating on Projects
+* 🌍   based in Doha Qatar
+* ✉️   can contact me at [jarigi90@gmail.com](mailto:jarigi90@gmail.com)
+* 🧠   learning Nextjs
+* 🤝   open to collaborating on Projects
 * ⚡  Consistency Wins the Race
 
 ### Skills
